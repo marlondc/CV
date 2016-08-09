@@ -1,48 +1,65 @@
-## Your Name
+## Marlon Date-Chong
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a qualified optometrist that decided, with great apprehension, to embark on a coding bootcamp with Maker's Academy. I love the challenge of solving something and the feeling when it is overcome. I am not too keen on the in between, but I have come to appreciate its importance.
+
+As a graduate of Makers Academy I have a strong desire to carry on this journey to become the best developer that I can be. 
+
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+As part of my role as an Optometrist I enjoyed finding out why patients were attending for an eye examination. It is important to make the patient feel comfortable enough to share their reason for visit.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Determined
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am classically trained pianist, violinist and double bassist. It was anything but quick or easy. There were times I considered quitting. I am very happy and grateful to my parents that I didn't.  I have noticed great similarities between learning to code and learning an instrument
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Tech Skills
+
+I am aware that 12weeks is a short time, but I do feel that I have a decent grasp of programming principles, languages and frameworks.
+
+A few projects include:
+
+Name|Description|Technologies|Testing
+---|---|---
+Time for an Adventure|Decision based story game|Ruby on Rails, Postgres, MySQL|Rspec, Capybara
+NewsApp|Web application that displays Guardian Headlines|Node.js, Javascript|Mocha, Chai
+Thermostat|A virtual thermostat application|Node.js, Javascript, JQuery|Jasmine
+
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+### Makers Academy ( May 2016 - August 2016 )
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+- Programming best practices: OOP, TDD, SOLID, MVC, DDD
+- Programming languages and frameworks: Ruby, Rails, Javascript, Node.js
+- Testing frameworks: Rspec, Jasmine, Mocha
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+### City University London ( Sept 2010 - Jul 2013 )
 
-#### Any other qualifications
+- BSc Hons Optometry 2:1
+
+### Other qualifications
+
+- Grade 8 Violin
+- Grade 8 Piano
+- Grade 6 Double Bass
+- A levels: Biology, Chemistry, Maths all A grade. Further Maths AS A
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Vision Express ( July 2013 to August 2014 )  
+Pre-Registration Optometrist
+
+#### Locum Optometrist ( August 2014 - August 2016 )
+
+#### Hobbies
+
+- Any Sport
+- Travelling
+- Music
+- Crochet
