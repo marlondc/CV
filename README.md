@@ -27,10 +27,10 @@ I am aware that 12weeks is a short time, but I do feel that I have a decent gras
 A few projects include:
 
 Name|Description|Technologies|Testing
---- | --- | ---
-[Time for an Adventure](https://github.com/lomlo/TFAA)|Decision based story game|Ruby on Rails, Postgres, MySQL|Rspec, Capybara
-[NewsApp](https://github.com/marlondc/newsApp)|Web application that displays Guardian Headlines|Node.js, Javascript|Mocha, Chai
-[Thermostat](https://github.com/marlondc/thermostat)|A virtual thermostat application|Node.js, Javascript, JQuery|Jasmine
+----------- | ----------- | -----------
+[Time for an Adventure](https://github.com/lomlo/TFAA) | Decision based story game | Ruby on Rails, Postgres, MySQL | Rspec, Capybara
+[NewsApp](https://github.com/marlondc/newsApp) | Web application that displays Guardian Headlines | Node.js, Javascript | Mocha, Chai
+[Thermostat](https://github.com/marlondc/thermostat) | A virtual thermostat application | Node.js, Javascript, JQuery | Jasmine
 
 
 
