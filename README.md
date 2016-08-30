@@ -1,8 +1,9 @@
 ## Marlon Date-Chong
 
-I am a qualified optometrist that decided, with great apprehension, to embark on a coding bootcamp with Maker's Academy. I love the challenge of solving something and the feeling when it is overcome.
+I am a qualified optometrist that decided to embark on a coding bootcamp with Maker's Academy. I love the challenge of solving something and the feeling when it is overcome.
+I have a strong analytical mind and can pick things up quickly. I have enjoyed Maker's Academy greatly and have learnt a great deal. 
+As a graduate of Makers Academy I am looking for a junior developer role to continue this journey to become the best developer that I can be.
 
-As a graduate of Makers Academy I have a strong desire to continue this journey to become the best developer that I can be.
 
 
 ## Skills
