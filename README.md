@@ -1,8 +1,8 @@
 ## Marlon Date-Chong
 
-I am a qualified optometrist that decided to embark on a coding bootcamp with Maker's Academy. I love the challenge of solving something and the feeling when it is overcome.
-I have a strong analytical mind and can pick things up quickly. I have enjoyed Maker's Academy greatly and have learnt a great deal. 
-As a graduate of Makers Academy I am looking for a junior developer role to continue this journey to become the best developer that I can be.
+I am a qualified optometrist that decided to embark on a coding bootcamp with Makers Academy. I love the challenge of problem-solving and the feeling when it is overcome.
+Makers Academy is a 16week coding bootcamp located in London. As a graduate of Makers Academy I have learnt a great deal and I am a strong supporter of the XP principles, TDD, BDD, Agile programming and pair programming.
+I am now looking for a junior developer role to continue this journey to become the best developer that I can be.
 
 
 
