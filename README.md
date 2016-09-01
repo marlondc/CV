@@ -63,6 +63,6 @@ Pre-Registration Optometrist
 
 ### Hobbies
 
-- Any Sport
+- Any Sport that gets the blood pumping
 - Travelling
 - Music
