@@ -29,7 +29,7 @@ A few projects include:
 
 | Name                                                   | Description                                                | Technologies                   | Testing         |
 |      ---------------------------------------           | -------------------                                        | ----------------------         | ------------    |
-| [Time for an Adventure](https://github.com/lomlo/TFAA) | Decision based story game                                  | Ruby on Rails, Postgres, MySQL | Rspec, Capybara |
+| [Time for an Adventure](https://github.com/lomlo/TFAA) | Decision based story game                                  | Ruby on Rails, PostgreSQL | Rspec, Capybara |
 | [NewsApp](https://github.com/marlondc/newsApp)         | Web application that displays Guardian Headlines           | Node.js, Javascript            | Mocha, Chai     |
 | [Thermostat](https://github.com/marlondc/thermostat)   | A virtual thermostat application                           | Node.js, Javascript, JQuery    | Jasmine         |  
 
