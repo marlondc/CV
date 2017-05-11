@@ -58,7 +58,7 @@ A few projects include:
 
 ### Hobbies
 
-- I am a classically trained musician and I enjoy _pratising_ when I get the chance
+- I am a classically trained musician and I enjoy pratising when I get the chance
 - I am fond of some friendly sporting competition. I managed to get lots of pratice playing table tennis during my time at Makers Academy knowing it is a sort after skill in tech firms, there always seems to be table tennis available.
 - I have run 2 marathons and looking to add to the list. I would say I enjoy it but there comes a point on every run where I question this passtime of mine.
 - Travelling. Who doesn't?
