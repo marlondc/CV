@@ -8,10 +8,8 @@ Current facourite server side framework: node.js
 
 ## Experience
 
-##### Vision Express ( July 2013 to August 2014 )  
-Pre-Registration Optometrist
-
-##### Locum Optometrist ( August 2014 - August 2016 )
+##### Optometrist ( August 2013 - August 2016 )
+Optometrist
 
 ##### magneticNorth ( September 2016 - current )
 Junior full-stack developer
