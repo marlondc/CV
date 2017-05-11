@@ -2,9 +2,11 @@
 
 I am a qualified optometrist that completed the Makers Academy Bootcamp. I am currently a junior full stack developer at magneticNorth, a digital design agency in Manchester.
 
+```
 Current favourite language: Javascript
 Current favourite front-end library: React
 Current facourite server side framework: node.js
+```
 
 ## Experience
 
