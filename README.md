@@ -1,10 +1,20 @@
 ## Marlon Date-Chong
 
-I am a qualified optometrist that decided to embark on a coding bootcamp with Makers Academy. I love the challenge of problem-solving and the feeling when it is overcome.
-Makers Academy is a 16week coding bootcamp located in London. As a graduate of Makers Academy I have learnt a great deal and I am a strong supporter of the XP principles, TDD, BDD, Agile programming and pair programming.
-I am now looking for a junior developer role to continue this journey to become the best developer that I can be.
+I am a qualified optometrist that completed the Makers Academy Bootcamp. I am currently a junior full stack developer at magneticNorth, a digital design agency in Manchester.
 
+Current favourite language: Javascript
+Current favourite front-end library: React
+Current facourite server side framework: node.js
 
+## Experience
+
+##### Vision Express ( July 2013 to August 2014 )  
+Pre-Registration Optometrist
+
+##### Locum Optometrist ( August 2014 - August 2016 )
+
+##### magneticNorth ( September 2016 - current )
+Junior full-stack developer
 
 ## Skills
 
@@ -40,29 +50,17 @@ A few projects include:
 ### Makers Academy ( May 2016 - August 2016 )
 
 
-- Programming best practices: OOP, TDD, SOLID, MVC, DDD
-- Programming languages and frameworks: Ruby, Rails, Javascript, Node.js
+- Programming best practices: OOP, TDD, SOLID, MVC, BDD
+- Programming languages and frameworks: Ruby, Sinatra, Rails, Javascript, Node.js
 - Testing frameworks: Rspec, Jasmine, Mocha
 
 ### City University London ( Sept 2010 - Jul 2013 )
 
 - BSc Hons Optometry 2:1
 
-### Other qualifications
-
-- Grade 8 Violin
-- Grade 8 Piano
-- Grade 6 Double Bass
-
-## Experience
-
-##### Vision Express ( July 2013 to August 2014 )  
-Pre-Registration Optometrist
-
-##### Locum Optometrist ( August 2014 - August 2016 )
-
 ### Hobbies
 
-- Any Sport that gets the blood pumping
-- Travelling
-- Music
+- I am a classically trained musician and I enjoy _pratising_ when I get the chance
+- I am fond of some friendly sporting competition. I managed to get lots of pratice playing table tennis during my time at Makers Academy knowing it is a sort after skill in tech firms, there always seems to be table tennis available.
+- I have run 2 marathons and looking to add to the list. I would say I enjoy it but there comes a point on every run where I question this passtime of mine.
+- Travelling. Who doesn't?
