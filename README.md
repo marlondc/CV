@@ -5,7 +5,7 @@ I am a qualified optometrist that completed the Makers Academy Bootcamp. I am cu
 ```
 Current favourite language: Javascript
 Current favourite front-end library: React
-Current facourite server side framework: node.js
+Current favourite server side framework: node.js
 ```
 
 ## Experience
